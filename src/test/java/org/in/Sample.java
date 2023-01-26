@@ -11,8 +11,12 @@ public class Sample {
 		System.out.println("medhod2");
 	}
 	
-	
-	
+	private void method3() {
+System.out.println("method3");
+	}
+	private void medhod4() {
+System.out.println("method4");
+	}
 	
 	
 
